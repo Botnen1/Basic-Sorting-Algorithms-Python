@@ -1,4 +1,7 @@
 #Bobble sort algorithm
+"""
+Bubble Sort is a super simple sorting algorithm that repeatedly swapps the elements if they are in the wrong order. 
+"""
 
 def bubblesort(list_a):
     indexing_length = len(list_a) - 1
