@@ -1,4 +1,9 @@
 #Quick sort algorithm
+"""
+QuickSort is an algorithm that picks an element as a pivot and partitions the given array around the picked pivot.
+(divide and conquer)
+"""
+
 
 def quicksort(sequence):
     length = len(sequence)
