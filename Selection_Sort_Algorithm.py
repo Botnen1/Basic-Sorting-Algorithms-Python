@@ -1,5 +1,7 @@
 #Selection sort algorithm
-
+"""
+This algorithm sort an array by finding the smalles element of the unsorted part of the set, then putting the smallest element in the front
+"""
 def selectionsort(list_b):
     indexing_length = range(0, len(list_b) - 1)
 
