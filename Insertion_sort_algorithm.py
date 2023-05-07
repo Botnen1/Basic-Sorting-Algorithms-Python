@@ -1,4 +1,7 @@
 #Insertion sort algorithm
+"""
+Insertion sort is a simple algorithm that works the way we sort playing cards in our hands. 
+"""
 
 def insertionsort(list_c):
     indexing_length = range(1, len(list_c))
